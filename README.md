@@ -122,7 +122,7 @@ Generated plots match the formatting, legends, and styling present in the publis
 
 ## Citation
 
-If you use this code, please cite the accompanying paper:(arXiv/PRL reference to be added upon publication).
+If you use this code, please cite the accompanying paper: https://urldefense.com/v3/__http://arxiv.org/abs/2611.18327__;!!D9dNQwwGXtA!Rp3UDn9RTB3rT8dGZ5Xw0p8mIBtWFZSjwdkGthbD86Sh9wNp2Ij3cTSBtKtlRAOVzU_I-Pdhb9Vy4ZD0XbINp_RSconUKyT5ryqCTMBNgJ5U$.
 
 ## License
 
